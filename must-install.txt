@@ -1,0 +1,23 @@
+* vim
+* ssh + .ssh/config
+* git
+* zsh
+* oh-my-zsh
+* dotfiles + enable for zsh
+* Postgresql
+* PgAdmin
+* Java
+* PasswordSafe
+* Dropbox
+* Docker
+* VSCode + plugins
+* IntelliJ IDEA + plugins
+* FileZilla
+* ncftp
+* nodejs 
+* yarn
+* Angular CLI
+* heroku
+
+sudo dnf group install "C Development Tools and Libraries"
+sudo dnf install @development-tools
